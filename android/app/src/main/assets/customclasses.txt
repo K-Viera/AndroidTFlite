@@ -1,5 +1,2 @@
-danger
-mandatory
-
-
-
+mask
+no-mask
